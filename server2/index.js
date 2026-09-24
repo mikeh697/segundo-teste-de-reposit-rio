@@ -14,3 +14,5 @@ app.get('/api/dados', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Servidor rodando em http://localhost:${PORT}`);
 });
+
+document.writeln("fazendo aqui o primeiro teste de digitação para ver se essa porra realmente vai funcionar!");
